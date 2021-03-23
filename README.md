@@ -1,5 +1,4 @@
-# testrepo
-
+# CAPSTONE PROJECT
 ## editing the file
 
-Its a markdown file in this repository
+This note book is for final capstone project (Coursera)
